@@ -1,0 +1,22 @@
+.login{
+    background: #00152b;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.loginForm-header{
+    display: flex;
+    justify-content:space-between;
+   margin-bottom: 5px;
+   color: #fff;
+}
+.loginForm{
+    width:300px;
+
+    .loginForm-main{
+        // background: #fff;
+    }
+}
